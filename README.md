@@ -4,8 +4,8 @@
 
 ## 使用教學
 1. 更新ubuntu並安裝curl
-   `sudo apt-get update
-   sudo apt install curl`
+   `sudo apt-get update`
+   `sudo apt install curl`
 
 
 2. 下載腳本
@@ -14,5 +14,5 @@
 
 3. 賦予腳本權限並執行
 
-   `sudo chmod 775 install_nodered.sh
-   ./install_nodered.sh`
+   `sudo chmod 775 install_nodered.sh`
+   `./install_nodered.sh`
