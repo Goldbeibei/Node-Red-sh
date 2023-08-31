@@ -10,7 +10,7 @@
 
 2. 下載腳本
 
-   `curl -JLO https://github.com/Goldbeibei/Node-Red-sh/blob/main/install_nodered.txt`
+   `curl -JLO https://github.com/Goldbeibei/Node-Red-sh/blob/main/install_nodered.sh`
 
 3. 賦予腳本權限並執行  
 
