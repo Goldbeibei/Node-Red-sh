@@ -12,3 +12,4 @@
 
    `bash <(curl -sSL https://raw.githubusercontent.com/Goldbeibei/Node-Red-sh/main/install_nodered.sh)`
 
+3. 開啟瀏覽器，打入 IP:1880 
