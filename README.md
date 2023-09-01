@@ -10,5 +10,5 @@
 
 2. 下載腳本並執行
 
-   `curl -sSL https://raw.githubusercontent.com/Goldbeibei/Node-Red-sh/main/install_nodered.sh | bash`
+   `bash <(curl -sSL https://raw.githubusercontent.com/Goldbeibei/Node-Red-sh/main/install_nodered.sh)`
 
