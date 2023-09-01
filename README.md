@@ -8,11 +8,7 @@
    `sudo apt install curl`  
 
 
-2. 下載腳本
+2. 下載腳本並執行
 
-   `curl -JLO https://github.com/Goldbeibei/Node-Red-sh/blob/main/install_nodered.sh`
+   `curl -sSL https://raw.githubusercontent.com/Goldbeibei/Node-Red-sh/main/install_nodered.sh | bash`
 
-3. 賦予腳本權限並執行  
-
-   `sudo chmod 775 install_nodered.sh`  
-   `./install_nodered.sh`
