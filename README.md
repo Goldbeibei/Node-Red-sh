@@ -4,8 +4,8 @@
 
 ## 使用教學
 1. 更新ubuntu並安裝curl  
-   `sudo apt-get update`  
-   `sudo apt install curl`  
+   `sudo apt-get update -y`  
+   `sudo apt install curl -y`  
 
 
 2. 下載腳本並執行
